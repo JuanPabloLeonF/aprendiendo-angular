@@ -1,0 +1,39 @@
+button {
+  background-color: #999898;
+  border: none;
+  border-radius: 1rem;
+  color: white;
+  cursor: pointer;
+  padding: 0.5rem;
+}
+
+input {
+  padding: 0.5rem;
+  border-radius: 1rem;
+  border: none;
+  outline: none;
+  margin: 0.5rem;
+  font-size: 1.2rem;
+  border: 1px solid #999898;
+  color: black;
+}
+
+h2 {
+    text-align: center;
+}
+
+li {
+    margin: 1rem 0;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+
+div {
+  display: flex;
+  flex-direction: column;
+}
